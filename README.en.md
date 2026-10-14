@@ -38,7 +38,7 @@ For search pages after page 1, pass `data.business_config.next_page.search_id` f
 python3 douyin.py search 'coffee' --page 2 --search-id 'SEARCH_ID_FROM_PREVIOUS_RESPONSE'
 ```
 
-Comments use `--page`; video details do not support pagination. The script preserves the raw `data` response. See the [API documentation](https://docs.justoneapi.com/en/) for the full response structure and optional filters.
+Comments use `--page`; video details do not support pagination. The script preserves the raw `data` response. See the [API documentation](https://docs.justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_docs_en) for the full response structure and optional filters.
 
 | Command | API endpoint | Main parameters |
 |---|---|---|
@@ -59,8 +59,8 @@ Tests use mock responses. They require no token and incur no API fees.
 ## Resources
 
 - [Just One API](https://justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_link)
-- [API documentation](https://docs.justoneapi.com/en/)
-- [Account dashboard](https://dashboard.justoneapi.com/en/)
+- [API documentation](https://docs.justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_docs_en)
+- [Account dashboard](https://dashboard.justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_dashboard_en)
 - [Official Python SDK](https://github.com/justoneapi-official/justoneapi-python)
 
 Only process data you are authorized to access and use. Remove tokens, personal information, and private response content before reporting issues.

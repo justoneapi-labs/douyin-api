@@ -39,7 +39,7 @@ python3 douyin.py search '咖啡' > results/search.json
 python3 douyin.py search '咖啡' --page 2 --search-id 'SEARCH_ID_FROM_PREVIOUS_RESPONSE'
 ```
 
-评论按 `--page` 分页；详情查询不接受分页。完整参数和响应结构请查阅[接口文档](https://docs.justoneapi.com/zh/)。响应 `data` 保留服务返回的原始结构，脚本不假定视频或评论字段长期不变。
+评论按 `--page` 分页；详情查询不接受分页。完整参数和响应结构请查阅[接口文档](https://docs.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_docs_zh)。响应 `data` 保留服务返回的原始结构，脚本不假定视频或评论字段长期不变。
 
 ## 使用的接口
 
@@ -62,8 +62,8 @@ python3 -m unittest -v
 ## 链接
 
 - [Just One API](https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_link)
-- [API 文档](https://docs.justoneapi.com/zh/)
-- [账户与接口权限](https://dashboard.justoneapi.com/zh/)
+- [API 文档](https://docs.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_docs_zh)
+- [账户与接口权限](https://dashboard.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_dashboard_zh)
 - [官方 Python SDK](https://github.com/justoneapi-official/justoneapi-python)
 
 请仅处理你有权访问和使用的数据。提交 Issue 时请去除 Token、个人信息及不应公开的响应内容。
