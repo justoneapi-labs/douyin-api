@@ -2,9 +2,9 @@
 
 [简体中文](README.md)
 
-Python examples for searching Douyin videos and retrieving video details and comments through Just One API. Use them as building blocks for an **API-based Douyin scraper** or data collection workflow.
+Python examples for searching Douyin videos and retrieving video details and comments through JustOneAPI. Use them as building blocks for an **API-based Douyin scraper** or data collection workflow.
 
-This is a third-party API client example, not an official Douyin SDK or a standalone scraper. A Just One API account, access token, and endpoint permissions are required. Requests may incur charges; check your dashboard for pricing, trial quotas, and availability. These examples cover Douyin content only, not TikTok, Douyin e-commerce, or Xingtu.
+This is a third-party API client example, not an official Douyin SDK or a standalone scraper. A JustOneAPI account, access token, and endpoint permissions are required. Requests may incur charges; check your dashboard for pricing, trial quotas, and availability. These examples cover Douyin content only, not TikTok, Douyin e-commerce, or Xingtu.
 
 ## Quick start
 
@@ -58,7 +58,7 @@ Tests use mock responses. They require no token and incur no API fees.
 
 ## Resources
 
-- [Just One API](https://justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_link)
+- [JustOneAPI](https://justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_link)
 - [API documentation](https://docs.justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_docs_en)
 - [Account dashboard](https://dashboard.justoneapi.com/en/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_dashboard_en)
 - [Official Python SDK](https://github.com/justoneapi-official/justoneapi-python)

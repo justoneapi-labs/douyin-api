@@ -1,4 +1,4 @@
-"""Douyin data collection examples using the third-party Just One API service."""
+"""Douyin data collection examples using the third-party JustOneAPI service."""
 import argparse
 import json
 import os
@@ -52,7 +52,7 @@ def request(action, value, token, *, page=1, search_id="", opener=urlopen):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Douyin API / 抖音API — Just One API examples")
+    parser = argparse.ArgumentParser(description="Douyin API / 抖音API — JustOneAPI examples")
     parser.add_argument("action", choices=ENDPOINTS)
     parser.add_argument("value", help="Search keyword, or video ID for details/comments")
     parser.add_argument("--page", type=int, default=1)

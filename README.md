@@ -2,9 +2,9 @@
 
 [English](README.en.md)
 
-使用 Python 标准库调用 Just One API，查询抖音视频搜索、视频详情和评论。适合需要通过第三方 API 构建抖音数据采集流程的开发者。
+使用 Python 标准库调用 JustOneAPI，查询抖音视频搜索、视频详情和评论。适合需要通过第三方 API 构建抖音数据采集流程的开发者。
 
-这是第三方 **API 调用与爬虫工作流示例**，不是抖音官方 SDK，也不是无需服务端 API 的独立爬虫。需要 Just One API 账户、有效 Token 和对应接口权限；调用可能收费，价格、试用额度与可用性以控制台为准。此仓库不包含 TikTok、抖音电商或星图接口。
+这是第三方 **API 调用与爬虫工作流示例**，不是抖音官方 SDK，也不是无需服务端 API 的独立爬虫。需要 JustOneAPI 账户、有效 Token 和对应接口权限；调用可能收费，价格、试用额度与可用性以控制台为准。此仓库不包含 TikTok、抖音电商或星图接口。
 
 ## 快速开始
 
@@ -61,7 +61,7 @@ python3 -m unittest -v
 
 ## 链接
 
-- [Just One API](https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_link)
+- [JustOneAPI](https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_link)
 - [API 文档](https://docs.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_docs_zh)
 - [账户与接口权限](https://dashboard.justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_douyin_api&utm_content=readme_dashboard_zh)
 - [官方 Python SDK](https://github.com/justoneapi-official/justoneapi-python)
